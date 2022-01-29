@@ -1,0 +1,60 @@
+Communications between the computer and Human is termed as?
+A)NLP
+B)Sales Forecasting
+C)Signal Processing
+D)No such example
+ANSWER: A
+Deep Neural network is called as deep because of ______
+A)Deep data
+B)Deep algorithm
+C)Inputs
+D)Multiple hidden layers
+ANSWER: D
+In Convolutional neuracal network, _____ and _____ layers can be used together.
+A)Averaging and summation
+B)Convolution and summation
+C)Convolution and neuron
+D)Convolution and pooling
+ANSWER: D
+In natural language processing software can interact with users using _____ data
+A)Table
+B)Database
+C)Text
+D)File
+ANSWER: C
+In neural netwrok neurons contains two important components _____ and _____.
+A)Multiplication and Addition
+B)Addition and Activation Function
+C)Input and Output
+D)Summation and activation function
+ANSWER: D
+Neural Network Consists of?
+A)Nodes, Hidden Layers
+B)Optimization Function
+C)Activation Function
+D)All of the Mentioned
+ANSWER: D
+To Train a Neural Network Model, one need to have thorough understanding of?
+A)Mathematical Function
+B)Statistics
+C)Mathematics and Statistics both
+D)None of the Mentioned
+ANSWER: C
+What is the assumption behind Perceptron?
+A)Classes are linearly separable
+B)Classes are non linear
+C)Can't take more than one feature
+D)All of the Mentioned
+ANSWER: A
+Which is a part of AI?
+A)Machine Learning
+B)Deep Learning
+C)Machine Learning & Deep Learning
+D)Intelligent Agent
+ANSWER: C
+Which of the following does not require fixed set of inputs?
+A)ANN
+B)Perceptron
+C)CNN
+D)RNN
+ANSWER: D
