@@ -1,7 +1,7 @@
 Question,OptionA,OptionB,OptionC,OptionD,CorrectOption
 Communications between the computer and Human is termed as?,NLP,Sales Forecasting,Signal Processing,No such example,A
 Deep Neural network is called as deep because of ______,Deep data,Deep algorithm,Inputs,Multiple hidden layers,D
-"In Convolutional neuracal network, _____ and _____ layers can be used together.",Averaging and summation,Convolution and summation,Convolution and neuron,Convolution and pooling,D
+"In Convolutional neural network, _____ and _____ layers can be used together.",Averaging and summation,Convolution and summation,Convolution and neuron,Convolution and pooling,D
 In natural language processing software can interact with users using _____ data,Table,Database,Text,File,C
 In neural netwrok neurons contains two important components _____ and _____.,Multiplication and Addition,Addition and Activation Function,Input and Output,Summation and activation function,D
 Neural Network Consists of?,"Nodes, Hidden Layers",Optimization Function,Activation Function,All of the Mentioned,D
